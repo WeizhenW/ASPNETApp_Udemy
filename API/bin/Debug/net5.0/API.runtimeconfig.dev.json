@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/wangwz/.dotnet/store/|arch|/|tfm|",
+      "/Users/wangwz/.nuget/packages"
+    ]
+  }
+}
